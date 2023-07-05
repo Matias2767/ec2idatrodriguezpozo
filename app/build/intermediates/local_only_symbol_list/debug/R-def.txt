@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color celeste
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable login
+id btn_foto
+id btn_login
+id btn_mapa
+id btn_tomar_foto
+id fcv_map
+id guideline
+id guideline_medium_horizontal
+id img_foto
+id img_login
+id textView
+id text_hello
+id til_email
+id til_password
+layout activity_camera
+layout activity_login
+layout activity_main
+layout activity_map
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Ec2idatrodriguezpozo
+xml backup_rules
+xml data_extraction_rules
